@@ -1,0 +1,56 @@
+[33mcommit fbabf567363909e2b567b0a6125ecc4d26fbcb41[m
+Author: Bruno Lucas <bruno.lucas14@hotmail.com>
+Date:   Thu Jul 2 14:39:19 2020 -0300
+
+    Changed readme language to english
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 0c8fe2c..a89df49 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,10 +1,9 @@[m
+ ## Electron + TypeScript + React[m
+[32m+[m[32mBoilerplate for a project using Electron, React and Typescript[m
+ [m
+[31m-Boilerplate para um projeto Electron utilizando Reactjs.[m
+[32m+[m[32m## Installation[m
+ [m
+[31m-## Instalação[m
+[31m-[m
+[31m-Use o gerenciador de pacotes de sua escolha (npm, yarn, etc.) para instalar as dependências[m
+[32m+[m[32mUse a package manager of your choice (npm, yarn, etc.) in order to install all dependencies[m
+ [m
+ ```bash[m
+ npm install[m
+[36m@@ -14,22 +13,22 @@[m [mnpm install[m
+ yarn install[m
+ ```[m
+ [m
+[31m-## Uso[m
+[31m-[m
+[31m-Para executar o projeto abra 2 terminais e execute os scripts `dev:electron` em um terminal e `dev:react` no outro terminal[m
+[32m+[m[32m## Usage[m
+[32m+[m[32mIn order to run this project 2 scripts will need to be executed `dev:react` and `dev:electron`, run each one in a different terminal and always run `dev:react` before `dev:electron`.[m
+ [m
+ ```bash[m
+[31m-npm run dev:electron[m
+[32m+[m[32mnpm run dev:react[m
+ ```[m
+[31m-[m
+ ```bash[m
+[31m-npm run dev:react[m
+[32m+[m[32mnpm run dev:electron[m
+ ```[m
+ [m
+[31m-## Contribuindo[m
+ [m
+[31m-Pull requests são bem vindas 😃.[m
+ [m
+[31m-## Licença[m
+[32m+[m[32m## Contributing[m
+[32m+[m
+[32m+[m[32mPull requests are always welcome 😃.[m
+[32m+[m
+[32m+[m[32m## License[m
+ [m
+ [MIT](https://choosealicense.com/licenses/mit/)[m

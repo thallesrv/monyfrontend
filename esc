@@ -1,0 +1,252 @@
+[33mcommit f8cf56442a3315f2090e3ec0e92b5689b9987acf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 85db959 8c46e89
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Mon Jul 6 22:38:58 2020 -0300
+
+    Merge pull request #15 from Wilgnne/master
+    
+    Package script to generate the executable
+
+[33mcommit 8c46e89a2045c8ddf41f092cbeeb940c40e15cdd[m
+Author: Wilgnne <wilgnne.kba@gmail.com>
+Date:   Mon Jul 6 21:56:25 2020 -0300
+
+    docs(readme): update README
+
+[33mcommit 85c9b151e1e679253aa1e49612840f9f649ef532[m
+Author: Wilgnne <wilgnne.kba@gmail.com>
+Date:   Mon Jul 6 21:33:13 2020 -0300
+
+    feat(package.json): packaging scripts and electron-builder
+
+[33mcommit a3ca1743660673342d98384e0ea7e886b60a5f92[m
+Author: Wilgnne <wilgnne.kba@gmail.com>
+Date:   Mon Jul 6 21:31:48 2020 -0300
+
+    feat(.gitignore): adding packages to gitignore
+
+[33mcommit 20d54633f9098f04501cb23f2c00473433432a11[m
+Author: Wilgnne <wilgnne.kba@gmail.com>
+Date:   Mon Jul 6 20:18:30 2020 -0300
+
+    refactor(package.json): organizing scripts
+
+[33mcommit ca80bea3af265d5d70550208cb9104f450dcbe8c[m
+Merge: 5c80adb 85db959
+Author: Wilgnne Khawan <wilgnne@localhost.localdomain>
+Date:   Mon Jul 6 19:41:52 2020 -0300
+
+    Merge commit '85db9592948a96c4b52e5ebc3296ae4775083c16'
+
+[33mcommit 85db9592948a96c4b52e5ebc3296ae4775083c16[m
+Merge: c28060f 5c80adb
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Mon Jul 6 16:57:53 2020 -0300
+
+    Merge pull request #10 from Wilgnne/master
+    
+    Add build and packaging script
+
+[33mcommit 5c80adbe29cf1a848fdcedcf4b2a01745f38a9d7[m
+Merge: c16c507 c28060f
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Mon Jul 6 16:57:45 2020 -0300
+
+    Merge branch 'master' into master
+
+[33mcommit c28060f2d46e991d171116c55167cc40044859ab[m
+Merge: d48822d 6c4714e
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Mon Jul 6 09:14:45 2020 -0300
+
+    Merge pull request #14 from thomasJs8/master
+    
+    Improve the Button component
+
+[33mcommit 6c4714e783840f7addc51669cf40a4c6e7063e34[m
+Author: thomasJs8 <thomas18thx@gmail.com>
+Date:   Mon Jul 6 12:39:48 2020 +0900
+
+    test(setuptests.ts): created setupTests.ts to use jest-dom globally
+    
+    moved to the extend from jest to a global setup file
+
+[33mcommit a109e9fe6397145d8183c1fd6c931eb4aae2ba36[m
+Author: thomasJs8 <thomas18thx@gmail.com>
+Date:   Mon Jul 6 09:46:38 2020 +0900
+
+    test(button.spec.tsx): test the Button component
+    
+    added a case to test the component attribute
+
+[33mcommit 32c823cae70d7fb2c1df43e4bbe72d41402609e6[m
+Author: thomasJs8 <thomas18thx@gmail.com>
+Date:   Mon Jul 6 09:38:25 2020 +0900
+
+    refactor(button/index.tsx): removed code
+    
+    removed an unused import statement
+
+[33mcommit d48822d2bc7e63f8d76306da3d216f65f4b1e313[m
+Merge: f04fe67 8eb041c
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Sun Jul 5 13:30:54 2020 -0300
+
+    Merge pull request #13 from leoferreiralima/chore/config-lintstaged
+    
+    Chore/config lintstaged
+
+[33mcommit 8eb041cebdf6d90ef5f8ecf82de863c851e2bdea[m
+Author: leoferreiralima <leoferreiralima@yahoo.com>
+Date:   Sun Jul 5 09:29:43 2020 -0300
+
+    chore: remove unecessary git add
+
+[33mcommit 2116aef6bf00b42669624e1a0f836632002b09da[m
+Author: leoferreiralima <leoferreiralima@yahoo.com>
+Date:   Sun Jul 5 09:28:07 2020 -0300
+
+    chore: update version of lintsatged,husky and commitizen
+
+[33mcommit b6cd669d0f4d6543a7047e6889ed1b22bd15f4f2[m
+Author: leoferreiralima <leoferreiralima@yahoo.com>
+Date:   Sun Jul 5 09:22:27 2020 -0300
+
+    chore: add files extensions to lintstaged
+
+[33mcommit f04fe674a453cc7417d90e669ad1d073082fd9ef[m
+Merge: c4bdf1a e3d99fd
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Sat Jul 4 21:24:41 2020 -0300
+
+    Merge pull request #11 from eltonmarques96/master
+    
+    feat(new features): adding commitlint, husky, lint-staged
+
+[33mcommit e3d99fd71cb0632152c9fd718783d22e23f0ff00[m
+Author: Elton Marques <elton1314@hotmail.com>
+Date:   Sat Jul 4 00:02:25 2020 -0300
+
+    chore(yarn-error.log): removing file
+
+[33mcommit 43263151cd0e4eee7e5d61152bb89394c65a693e[m
+Author: Elton Marques <elton1314@hotmail.com>
+Date:   Fri Jul 3 21:40:33 2020 -0300
+
+    feat(new features): adding commitlint, husky, lint-staged
+
+[33mcommit c16c50724aa00297d2cc35637af5c32c61a65f20[m
+Author: Wilgnne <wilgnne.kba@gmail.com>
+Date:   Fri Jul 3 20:43:34 2020 -0300
+
+    Add build script
+
+[33mcommit c4bdf1a5670be97dfce1bafad90125eaeb56d031[m
+Merge: a6091b5 edb08f4
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Thu Jul 2 22:51:48 2020 -0300
+
+    Merge pull request #6 from powilliam/master
+    
+    feat: implements a greeting component inspired in create-react-app
+
+[33mcommit a6091b5086cbc1b245a83fbcd33d79ac5bee5451[m
+Merge: 319e885 fbabf56
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Thu Jul 2 22:51:01 2020 -0300
+
+    Merge pull request #4 from brunolsantos/master
+    
+    Mais informações adicionadas no readme :)
+
+[33mcommit edb08f4ad32919a2df76382f40cfe318f58fd30c[m
+Author: William Porto <powilliam19@gmail.com>
+Date:   Thu Jul 2 19:14:53 2020 -0400
+
+    add Greetings component and its tests
+
+[33mcommit fbabf567363909e2b567b0a6125ecc4d26fbcb41[m
+Author: Bruno Lucas <bruno.lucas14@hotmail.com>
+Date:   Thu Jul 2 14:39:19 2020 -0300
+
+    Changed readme language to english
+
+[33mcommit 319e8859d55622a55dbba3c200f3fed901302734[m
+Merge: 6098705 9438ef9
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Thu Jul 2 14:12:18 2020 -0300
+
+    Merge pull request #5 from roalmeida/master
+    
+    Add an id in the root element
+
+[33mcommit 6098705bb9dddc7c09d4e79f1b6be0742b825777[m
+Merge: 075d967 20ad4b7
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Thu Jul 2 14:11:13 2020 -0300
+
+    Merge pull request #2 from lucascampelo/master
+    
+    Including React Developer Tools and Redux Devtools
+
+[33mcommit 20ad4b704c3f63735f2288a135c122e7033ce0b4[m
+Author: Lucas Campelo <campelo.lucas@hotmail.com>
+Date:   Wed Jul 1 20:38:02 2020 -0300
+
+    Including React Developer Tools and Redux Devtools
+
+[33mcommit 9438ef9c7a2357d5b19c97aa25a691156f6430cd[m
+Author: Rodrigo Almeida <djrodrigoalmeida@yahoo.com.br>
+Date:   Thu Jul 2 07:19:46 2020 -0300
+
+    Add an id in the root element
+    
+    Added an ID in the root element to be easily targeted within the application
+
+[33mcommit 075d967331028583dc353b582912f10fb23bd093[m
+Merge: 09624d0 ef5b11b
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Wed Jul 1 23:50:21 2020 -0300
+
+    Merge pull request #3 from doli82/master
+    
+    Add support to development on Windows and single dev script
+
+[33mcommit f24ccee4783be8ec26f9060d888c6b6e44d9c194[m
+Author: Bruno Lucas <bruno.lucas14@hotmail.com>
+Date:   Wed Jul 1 23:47:34 2020 -0300
+
+    Added more information to readme.md
+
+[33mcommit ef5b11b4d3b57cf64e90596a453cb427d588e794[m
+Author: doli82 <39415174+doli82@users.noreply.github.com>
+Date:   Wed Jul 1 23:15:14 2020 -0300
+
+    Add dev script to run with a single command
+
+[33mcommit 182c3ebf8da9633cff0fa92b193fa056ff688ff0[m
+Author: doli82 <39415174+doli82@users.noreply.github.com>
+Date:   Wed Jul 1 23:10:04 2020 -0300
+
+    Fix to make dev scripts work on Windows OS
+
+[33mcommit 09624d059ea551c799189ccb84080d45acd4fae6[m
+Merge: 73d042d 063390b
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Mon Jun 29 12:09:14 2020 -0300
+
+    Merge pull request #1 from LeuAlmeida/patch-1
+    
+    typo(package.json): update description
+
+[33mcommit 063390be1f2a50cb040860ad58cc712b77a03b77[m
+Author: Léu Almeida <42948574+LeuAlmeida@users.noreply.github.com>
+Date:   Mon Jun 29 10:48:59 2020 -0300
+
+    typo(package.json): update description
+
+[33mcommit 73d042d18b6573ac3e3cd56e9dc8ebdee1ea9d48[m
+Author: Diego Fernandes <diego.schell.f@gmail.com>
+Date:   Sun Jun 28 19:01:36 2020 -0300
+
+    Initial Commit
